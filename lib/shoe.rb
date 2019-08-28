@@ -12,5 +12,5 @@ class Shoe
     self.condition = "new"
     puts "Your shoe is as good as new!"
   end
-  
+  learn spec/01_book_spec.rbl
 end
